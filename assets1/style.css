@@ -1,0 +1,161 @@
+.background-image {
+    background: url("img/Frame\ 1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+#loading{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    z-index: 99999;
+    background-color: white;
+    overflow: hidden;
+}
+
+#carousel {
+width: 74%;
+margin: auto;
+padding-top: 2em;
+}
+
+.carousel-icon {
+    width: 20px;
+    height: 50px;
+    background-color: gray ;
+}
+#about {
+    background-color: #CA1E20;
+    padding-bottom: 3em;
+}
+.about-text {
+    padding-top: 4em;
+}
+.about2 {
+    padding-top: 3em;
+}
+.footer-block {
+    background-color: whitesmoke;
+    height: 100px;
+    position: relative;
+}
+.footer-logo-wrapper {
+    height: 5em;
+    padding-top: 0em;
+    text-align: center;
+}
+footer .fab {
+    margin: 1em;
+    padding-top: 3em;
+    -webkit-text-fill-color: red;   
+}
+#Franchise {
+    background-color: #CA1E20;
+    padding-bottom: 3em;
+}
+html{
+    scroll-behavior: smooth
+}
+.bg-yellow{
+    background-color: #E1D957;
+    width: 100%;
+    padding: 2em;
+}
+#menu pre{
+    font-size: 25pt;
+    color: white;
+}
+#menu{
+    padding: 2em;
+    background-color:#CA1E20 ;
+}
+.harga{
+    color: #E1D957;
+}
+.text-menu{
+    margin-top: 5em;
+    width: 100vw;
+    margin-left: -41px;
+}
+.image{
+    margin: auto;
+    margin-top: 3em;
+    width: 30em;
+    height: 32em;
+    background-position: 0 50%;
+    background-size: cover;
+    background-image: url("img/owner.jpg");
+    border-radius: 20em 5em;
+    box-shadow: 14px -14px 32px 1px rgba(227, 227, 215, 1);
+}
+.review{
+    padding-top: 8em;
+}
+#galery{
+    padding: 2em;
+    background-color:#CA1E20 ;
+}
+.galery-hisa1{
+    width: 80%;
+    height: 25em;
+    background-size: cover;
+    background-image: url("img/hisa1.jpg");
+    box-shadow: 14px -14px 32px 1px rgba(227, 227, 215, 1);
+}
+.galery-hisa2{
+    width: 80%;
+    height: 25em;
+    background-size: cover;
+    background-image: url("img/hisa2.jpg");
+    box-shadow: 14px -14px 32px 1px rgba(227, 227, 215, 1);
+}
+.galery-hisa3{
+    width: 80%;
+    height: 25em;
+    background-size: cover;
+    background-image: url("img/hisa3.jpg");
+    box-shadow: 14px -14px 32px 1px rgba(227, 227, 215, 1);
+}
+.galery-hisa4{
+    width: 80%;
+    height: 25em;
+    background-size: cover;
+    background-image: url("img/hisa4.jpg");
+    box-shadow: 14px -14px 32px 1px rgba(227, 227, 215, 1);
+}
+.galery-hisa5{
+    width: 80%;
+    height: 25em;
+    background-size: cover;
+    background-image: url("img/hisa5.jpg");
+    box-shadow: 14px -14px 32px 1px rgba(227, 227, 215, 1);
+}
+.galery-hisa6{
+    width: 80%;
+    height: 25em;
+    background-size: cover;
+    background-image: url("img/hisa6.jpg");
+    box-shadow: 14px -14px 32px 1px rgba(227, 227, 215, 1);
+}
+.galery-hisa7{
+    width: 80%;
+    height: 25em;
+    background-size: cover;
+    background-image: url("img/hisa7.jpg");
+    box-shadow: 14px -14px 32px 1px rgba(227, 227, 215, 1);
+}
+.galery-hisa8{
+    width: 80%;
+    height: 25em;
+    background-size: cover;
+    background-image: url("img/hisa8.jpg");
+    box-shadow: 14px -14px 32px 1px rgba(227, 227, 215, 1);
+}
+.galery-hisa9{
+    width: 80%;
+    height: 25em;
+    background-size: cover;
+    background-image: url("img/hisa9.jpg");
+    box-shadow: 14px -14px 32px 1px rgba(227, 227, 215, 1);
+}

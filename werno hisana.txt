@@ -1,0 +1,2 @@
+kuning = #E1D957
+merah = #CA1E20
